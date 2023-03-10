@@ -1,0 +1,5 @@
+{
+  "markdown.extension.syntax.decorationFileSizeLimit": 500000,
+  "notebook.outputLineHeight": 18,
+  "notebook.output.textLineLimit": 3000,
+}
